@@ -15,7 +15,7 @@ const LandingPage = () => {
             </h1>
             <p className="text-xl mb-8">
               Transform your production tracking from a manual nightmare into automated certainty - 
-              using just your existing cameras and workers' phones.
+              using just your existing cameras and workers&apos; phones.
             </p>
             <button className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
               Book a Demo
@@ -32,7 +32,7 @@ const LandingPage = () => {
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           <div className="bg-gray-50 p-6 rounded-lg">
             <h3 className="text-xl font-semibold mb-3">
-              "Where did those units go?"
+              &ldquo;Where did those units go?&rdquo;
             </h3>
             <p className="text-gray-600">
               Tired of scrambling through paper records when products go missing between shifts?
@@ -40,7 +40,7 @@ const LandingPage = () => {
           </div>
           <div className="bg-gray-50 p-6 rounded-lg">
             <h3 className="text-xl font-semibold mb-3">
-              "Are we audit-ready?"
+              &ldquo;Are we audit-ready?&rdquo;
             </h3>
             <p className="text-gray-600">
               Worried about failing compliance checks due to incomplete tracking records?
@@ -62,7 +62,7 @@ const LandingPage = () => {
               </div>
               <h3 className="font-semibold mb-2">No New Hardware</h3>
               <p className="text-gray-600">
-                Uses your existing cameras and workers' phones
+                Uses your existing cameras and workers&apos; phones
               </p>
             </div>
             <div className="text-center">
@@ -94,7 +94,7 @@ const LandingPage = () => {
             Ready to Take Control of Your Production?
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Join forward-thinking manufacturers who've eliminated the stress of manual tracking.
+            Join forward-thinking manufacturers who&apos;ve eliminated the stress of manual tracking.
           </p>
           <button className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
             Schedule Your Demo
